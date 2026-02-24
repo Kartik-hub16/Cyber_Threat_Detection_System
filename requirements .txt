@@ -17,3 +17,4 @@ pytz==2023.3
 
 # For enhanced terminal output (optional)
 colorama==0.4.6
+
